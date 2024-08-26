@@ -1,8 +1,6 @@
 https://github.com/kelvins/municipios-brasileiros/tree/main
 
-
-NM_CIDADE_AULA quando estava na pandemia, as pessoas preenchiam com a cidade que moravam mesmo...
-Desconsiderar esse campo para os anos letivos de 2020 (a partir de março) e 2021
+NM_CIDADE_AULA quando estava na pandemia, as pessoas preenchiam com a cidade que moravam mesmo, porém está com muitas cidades em todos os anos, e não só nos dois anos de pandemia.
 
 No campo CD_ORIGEM_ALUNO, criar duas outras colunas para nascimento e durante a aula, usar essa coluna original apenas pra delimitar as cidades consideradas próximas a Maringá
 
@@ -10,10 +8,11 @@ Medidas a criar:
 
 * Idade na matrícula (DH_MATRICULA, DT_NASC_ALUNO) - ok
 * Ano da matrícula (DH_MATRICULA) - ok
-* CD_ORIGEM_ALUNO para aula (NM_CIDADE_AULA, SG_UF_AULA) - 
-* CD_ORIGEM_ALUNO para nascimento (NM_CIDADE_NASC, SG_UF_NASC_ALUNO) - 
+* CD_ORIGEM_ALUNO para ferias (NM_CIDADE_FERIAS, SG_UF_FERIAS) - ok
+* CD_ORIGEM_ALUNO para nascimento (NM_CIDADE_NASC, SG_UF_NASC_ALUNO) - ok
 * Estuda ou não no campus sede - ok
 * Trancamento (ponto de atenção para a evasão) - ok
+* Tempo cursado até a última situação - ok
 
 Informações para ML:
 
@@ -22,6 +21,7 @@ Informações para ML:
 * Centro
 * Campus
 * Habilitação
+* Tempo máximo para conclusão do curso
 * Turno
 * Estado civil
 * Raça
@@ -31,15 +31,14 @@ Informações para ML:
 * Tipo de escola do ensino médio
 * Cotas
 
-Booleano para trancamento
-
-Quanto tempo cursado até a evasão
 
 Recortes de modelos e análise
+
 * Campus
 * Centro
 * Curso
 * Turno
+* Gerações
 
 ML:
 
@@ -55,4 +54,7 @@ DBScan para clusterização, define a quantidade de grupos sozinho
 
 Mendley
 
-Mapeamento sistemático
+Mapeamento sistemático dos artigos que ler
+
+- Mostrar números dos cursos, quantos alunos ficaram depois da limpeza
+- 
