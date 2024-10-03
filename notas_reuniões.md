@@ -57,4 +57,3 @@ Mendley
 Mapeamento sistemático dos artigos que ler
 
 - Mostrar números dos cursos, quantos alunos ficaram depois da limpeza
-- 
