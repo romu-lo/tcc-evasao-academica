@@ -57,3 +57,21 @@ Mendley
 Mapeamento sistemático dos artigos que ler
 
 - Mostrar números dos cursos, quantos alunos ficaram depois da limpeza
+
+## Reunião 03/10
+
+deixar matriculados na geração completas
+pegar ids dos jubilados de gerações incompletas
+
+deixar casos estranhos (matriculados e jubilados) nos gráficos
+
+deixar vagas remanescentes juntas
+se ainda ficar maior, fazer gráfico separado mostrando
+
+investigar transferências
+
+ver quais são os cursos vespertinos
+
+quando tiver os 3 gráficos, deixar as colunas mais finas para os 3 gráficos ficarem na mesma linha, deixar gráficos na mesma escala
+
+fazer todos os gráficos das gerações, total, completa e incompleta
