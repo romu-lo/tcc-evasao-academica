@@ -60,18 +60,18 @@ Mapeamento sistemático dos artigos que ler
 
 ## Reunião 03/10
 
-deixar matriculados na geração completas
-pegar ids dos jubilados de gerações incompletas
+deixar matriculados na geração completas ok
+pegar ids dos jubilados de gerações incompletas ok 
 
-deixar casos estranhos (matriculados e jubilados) nos gráficos
+deixar casos estranhos (matriculados e jubilados) nos gráficos ok
 
-deixar vagas remanescentes juntas
-se ainda ficar maior, fazer gráfico separado mostrando
+deixar vagas remanescentes juntas ok
+se ainda ficar maior, fazer gráfico separado mostrando / ficou quase nada menor
 
 investigar transferências
 
-ver quais são os cursos vespertinos
+ver quais são os cursos vespertinos ok
 
-quando tiver os 3 gráficos, deixar as colunas mais finas para os 3 gráficos ficarem na mesma linha, deixar gráficos na mesma escala
+quando tiver os 3 gráficos, deixar as colunas mais finas para os 3 gráficos ficarem na mesma linha, deixar gráficos na mesma escala ok
 
-fazer todos os gráficos das gerações, total, completa e incompleta
+fazer todos os gráficos das gerações, total, completa e incompleta ok
