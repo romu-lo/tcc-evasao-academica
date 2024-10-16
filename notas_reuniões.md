@@ -75,3 +75,6 @@ ver quais são os cursos vespertinos ok
 quando tiver os 3 gráficos, deixar as colunas mais finas para os 3 gráficos ficarem na mesma linha, deixar gráficos na mesma escala ok
 
 fazer todos os gráficos das gerações, total, completa e incompleta ok
+
+## 17/10
+MEC considera jubilados evadidos também
